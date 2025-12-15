@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>الصفحة الشخصية</title>
+    <link rel="stylesheet" href="portfolio.css">
+</head>
+<body>
+<header>
+    <h1>اسمك بالكامل</h1>
+    <p>مطور Front-End / مصمم صفحات ويب</p>
+</header>
+
+<section class="bio">
+    <h2>عنّي</h2>
+    <p>أنا مبرمج صفحات ويب باستخدام HTML و CSS و JavaScript.</p>
+</section>
+
+<section class="skills">
+    <h2>المهارات</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>GitHub Pages</li>
+    </ul>
+</section>
+
+<section class="projects">
+    <h2>نماذج أعمال</h2>
+    <p>ضع هنا روابط نماذج أعمالك.</p>
+</section>
+
+<section class="contact">
+    <h2>تواصل</h2>
+    <a href="https://wa.me/201111248542" class="btn">واتساب</a>
+</section>
+
+<footer>
+    <p>© 2025 جميع الحقوق محفوظة</p>
+</footer>
+
+</body>
+</html>
